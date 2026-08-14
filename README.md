@@ -1,5 +1,3 @@
-# DyxotaGame GitHub Pages
-
 Root website for `https://dyxota-game.github.io/`.
 
 - Home: `https://dyxota-game.github.io/`
